@@ -1,0 +1,6 @@
+# Gemini context file
+GEMINI.md
+
+# Virtual environment
+.venv/
+__pycache__/

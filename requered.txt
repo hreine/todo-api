@@ -1,0 +1,6 @@
+fastapi 
+graphene 
+pip install "graphene==3.0b7"
+graphene-sqlalchemy 
+pydantic 
+sqlalchemy
